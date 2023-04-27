@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Federico</h1>
-<h3 align="center">I'm a MSc student in Computer Science and Engineering at <a href=https://polimi.it/en>Politecnico di Milano</a> and former Erasmus student at <a href=https://aalto.fi/en>Aalto Yliopisto</a>.</h3>
+<h3 align="center">I'm a MSc student in Computer Science and Engineering at <a href=https://polimi.it/en>Politecnico di Milano</a> <br> and a former Erasmus student at <a href=https://aalto.fi/en>Aalto Yliopisto</a>.</h3>
 
 - 🔭 I’m currently working on **my MSc thesis about data augmentation methods for illegal landfill discovery.**
 
