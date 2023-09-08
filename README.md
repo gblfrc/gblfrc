@@ -36,7 +36,8 @@
    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
- <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_orange.svg" alt="blender" width="40" height="40"/> </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_orange.svg" alt="blender" width="40" height="40"/> </a>
+  <a href="https://www.vulkan.org" target="_blank" rel="noreferrer"> <img src="https://www.vulkan.org/user/themes/vulkan/images/favicon.png" alt="vulkan" width="40" height="40"/> </a>
   
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gblfrc&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="gblfrc" /> &nbsp <img src="https://github-readme-stats.vercel.app/api?username=gblfrc&show_icons=true&theme=tokyonight&locale=en" alt="gblfrc" />
