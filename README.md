@@ -10,8 +10,8 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://gitlab.com/gblfrc" target="blank"><img align="center" src="https://about.gitlab.com/images/press/press-kit-icon.svg" alt="gblfrc" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/gblfrc" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="gblfrc" height="35" width="35" /></a>
   <a href="https://instagram.com/gblfrc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gblfrc" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
