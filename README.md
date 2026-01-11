@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Federico</h1>
-<h3 align="center">I'm a Research Fellow at <a href=https://polimi.it/en>Politecnico di Milano</a>
-  <img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Twemoji2_1f1ee-1f1f9.svg/512px-Twemoji2_1f1ee-1f1f9.svg.png?20170616000544" alt="italy" height="25" width="25"/>, 
+<h3 align="center">I'm a Postgraduate Researcher at <a href=https://polimi.it/en>Politecnico di Milano</a>
+  <img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Twemoji_1f1ee-1f1f9.svg/960px-Twemoji_1f1ee-1f1f9.svg.png" alt="italy" height="25" width="25"/>, 
   where I graduated in Computer Science and Engineering (MSc) in December 2023. I'm also a former Erasmus+ student at <a href=https://aalto.fi/en>Aalto Yliopisto</a>
-  <img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Twemoji2_1f1eb-1f1ee.svg/512px-Twemoji2_1f1eb-1f1ee.svg.png?20170616000121" alt="finland" height="25" width="25"/>.</h3>
+  <img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Twemoji2_1f1eb-1f1ee.svg/960px-Twemoji2_1f1eb-1f1ee.svg.png" alt="finland" height="25" width="25"/>.</h3>
 
 - 🛰️ I’m currently working on **solid waste detection from remote sensing images** for the [**PERIVALLON**](https://perivallon-he.eu) project.
 
@@ -29,7 +29,7 @@
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://www.algolia.com" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/hilnmyskv/image/upload/q_70/v1632834968/Algolia_com_Website_assets/images/shared/algolia_logo/algolia_badge_rounded_square_blue_background.svg" alt="algolia" width="40" height="40"/> </a>
+  <a href="https://www.algolia.com" target="_blank" rel="noreferrer"> <img src="https://logosandtypes.com/wp-content/uploads/2023/11/algolia.svg" alt="algolia" width="40" height="40"/> </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/> </a>
    <a href="https://nodered.org" target="_blank" rel="noreferrer"> <img src="https://nodered.org/about/resources/media/node-red-hexagon.svg" alt="node-red" width="40" height="40"/> </a>
@@ -41,4 +41,4 @@
   <a href="https://www.vulkan.org" target="_blank" rel="noreferrer"> <img src="https://www.vulkan.org/user/themes/vulkan/images/favicon.png" alt="vulkan" width="40" height="40"/> </a>
   
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gblfrc&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="gblfrc" align="center"/> &nbsp <img src="https://github-readme-stats.vercel.app/api?username=gblfrc&show_icons=true&theme=tokyonight&locale=en" alt="gblfrc" align="center"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gblfrc&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="gblfrc" align="center"/> &nbsp <img src="https://github-readme-stats.vercel.app/api?username=gblfrc&show_icons=true&theme=tokyonight&locale=en" alt="gblfrc" align="center"/> -->
