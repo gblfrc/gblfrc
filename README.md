@@ -12,14 +12,14 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gblfrc" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="gblfrc" height="35" width="35" /></a>
   <a href="https://gitlab.com/gblfrc" target="blank"><img align="center" src="https://about.gitlab.com/images/press/press-kit-icon.svg" alt="gblfrc" height="30" width="40" /></a>
-  <a href="https://instagram.com/gblfrc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gblfrc" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a></p>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="40" height="40"/> </a></p>
 
 <p align="center"> 
   <a href="https://pytorch.org" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/PyTorch.svg" alt="pytorch" width="40" height="40"/> </a>
